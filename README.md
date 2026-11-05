@@ -28,13 +28,13 @@ Project Structure
 
 student-grade-management-system/
 
-__ main.py
-__ student.py
-__ grade_calculator.py
-__ file_handler.py
-__ README.md
-__ .gitignore
-
+| main.py
+| student.py
+| grade_calculator.py
+| file_handler.py
+| README.md
+| .gitignore
+|
 How to Run
 
 1. Install Python 3.
