@@ -27,13 +27,13 @@ Technologies Used
 Project Structure
 
 student-grade-management-system/
-│
-├── main.py
-├── student.py
-├── grade_calculator.py
-├── file_handler.py
-├── README.md
-└── .gitignore
+
+__ main.py
+__ student.py
+__ grade_calculator.py
+__ file_handler.py
+__ README.md
+__ .gitignore
 
 How to Run
 
